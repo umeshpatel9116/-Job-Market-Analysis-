@@ -2,7 +2,8 @@
 📌 Project Overview
 
 This Power BI project analyzes job market data to identify trends, demand, and opportunities across roles, skills, companies, and locations. The project uses five interactive dashboards to present insights in a clear and user-friendly way, helping job seekers and analysts make data-driven decisions.
-**
+
+
 **🛠 Tools Used**
 
 Power BI
